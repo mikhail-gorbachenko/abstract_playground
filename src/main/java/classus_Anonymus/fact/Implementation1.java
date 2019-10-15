@@ -1,4 +1,4 @@
-package classus_Anonymus;
+package classus_Anonymus.fact;
 
 public class Implementation1 implements Service {
     private Implementation1(){}
